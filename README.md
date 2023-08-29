@@ -19,7 +19,7 @@ ROS2のシミュレータにはIgnition-GazeboとUnityがよく使われてい�
 
 ### C++
 
-- [Boost日本語情報サイト](boostjp)](https://boostjp.github.io/)
+- [Boost日本語情報サイト(boostjp)](https://boostjp.github.io/)
 - [C++リファレンス](https://ja.cppreference.com/w/)
 
 ### Unity
