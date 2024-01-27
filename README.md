@@ -19,8 +19,9 @@ ROS2のシミュレータにはIgnition-GazeboとUnityがよく使われてい�
 
 ### C++
 
-- [Boost日本語情報サイト(boostjp)](https://boostjp.github.io/)
-- [C++リファレンス](https://ja.cppreference.com/w/)
+- [Boost日本語情報サイト(boostjp)](https://boostjp.github.io/) : C++の有名なマルチプラットフォームなライブラリ「boost」の解説です。
+- [C++リファレンス](https://ja.cppreference.com/w/) : 公式のC++リファレンスです。
+- [cpp_robotics](https://kotakku.github.io/cpp_robotics) : 制御工学、最適化、逆運動学などロボティクスに多用される技術をパッケージ化したライブラリ c++20
 
 ### Unity
 
